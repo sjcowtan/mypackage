@@ -1,5 +1,5 @@
 Package: mypackage
-Title: What the Package Does (One Line, Title Case)
+Title: Some simple utilities for a large sample.
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Emma",
