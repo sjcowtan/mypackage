@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "emma.rand@york.ac.uk",
            comment = c(ORCID = "0000-0002-1358-8275"))
-Description: What the package does (one paragraph).
+Description: Utilities for calculating the sums of squares and standard error of a sample and carry out a one-sample z-test on it..
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
