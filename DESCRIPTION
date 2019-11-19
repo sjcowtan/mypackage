@@ -1,5 +1,5 @@
 Package: mypackage
-Title: Some simple utilities for a large sample.
+Title: Some simple utilities for a large sample
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Emma",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "emma.rand@york.ac.uk",
            comment = c(ORCID = "0000-0002-1358-8275"))
-Description: Utilities for calculating the sums of squares and standard error of a sample and carry out a one-sample z-test on it..
+Description: Utilities for calculating the sums of squares and standard error of a sample and carry out a one-sample z-test on it.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
