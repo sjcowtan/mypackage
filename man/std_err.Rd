@@ -17,5 +17,6 @@ returns the standard error of
 a numeric vector
 }
 \examples{
-std_err(rnorm(50))
+samplex <- rnorm(50)
+std_err(samplex)
 }
