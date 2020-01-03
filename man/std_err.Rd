@@ -19,4 +19,5 @@ a numeric vector
 \examples{
 samplex <- rnorm(50)
 std_err(samplex)
+
 }
